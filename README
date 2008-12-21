@@ -1,3 +1,18 @@
-this is a test.
-another test here!
+------------------------------
 
+sofawarmer framework
+version: alpha 0.1
+
+------------------------------
+
+
+The goal of this project is to create a base web development framework that
+enables rapid, cross-platform web design. Currently the project includes 
+the following:
+
+- XHTML 1.0 Strict
+- Yahoo! YUI Reset CSS
+- jQuery 1.2.6 (hosted by Google)
+- Unit PNG Fix
+ 
+Any additional insight would be welcomed.
