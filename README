@@ -11,7 +11,7 @@ enables rapid, cross-platform web design. Currently the project includes
 the following:
 
 - XHTML 1.0 Strict
-- Yahoo! YUI Reset CSS
+- Yahoo! YUI 2.7.0 Reset CSS
 - jQuery 1.3.2 (hosted by Google)
 - Unit PNG Fix
  

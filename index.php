@@ -8,7 +8,7 @@
 	<title>page title here</title>
 
 	<!-- stylesheets -->
-		<link rel="stylesheet" href="http://yui.yahooapis.com/2.6.0/build/reset/reset-min.css" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset/reset-min.css" type="text/css" charset="utf-8" />
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css" charset="utf-8" />
 
 	<!-- javascript -->
