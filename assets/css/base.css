@@ -4,10 +4,58 @@
 
 /* Base Tags */
 
+html { 
+	color:#333;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	line-height:1.4em;
+	}
+
+h1, h2, h3,
+h4, h5, h6 { 
+	font-weight:normal; 
+	margin-bottom:10px; 
+	}
+h1 { font-size:24px; }
+h2 { font-size:20px; }
+h3 { font-size:16px; }
+h4 { font-size:14px; }
+h5 { font-size:12px; }
+h6 { font-size:11px; }
+
+p { line-height:1.4em; }
+
+a { outline: none; }
+a:link, a:visited, a:hover, a:active {
+	color:inherit;
+	text-decoration:none;
+	}
+	
+hr { 
+	background: #333;
+	border: 0;
+	color: #333;
+	height: 1px;
+	}
+
 
 /* Base ID's */
 
+#container {
+	margin:0 auto;
+	width:960px;
+	}
 
 /* Base Classes */
 
+.wrapper {
+	margin:0 auto;
+	width:960px;
+	}
+
+.clear { clear:both; }
+.left { float:left; }
+.right { float:right; }
+
+.shadow { text-shadow:2px 2px 3px #222; }
 

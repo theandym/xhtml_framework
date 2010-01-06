@@ -1,12 +1,12 @@
 ------------------------------
 
 xhtml_framework
-version: 0.41
+version: 0.5
 
 ------------------------------
 
 
-An (x)html site framework that provides a base structure for rapid, cross-platform web design. Features:
+An XHTML site framework that provides a base structure for rapid, cross-platform web design. Features:
 
 - XHTML 1.0 Strict
 - Eric Meyer's Reset CSS v1.0
