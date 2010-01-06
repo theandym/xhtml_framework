@@ -1,7 +1,7 @@
 ------------------------------
 
 xhtml_framework
-version: 0.4
+version: 0.41
 
 ------------------------------
 
@@ -10,7 +10,7 @@ An (x)html site framework that provides a base structure for rapid, cross-platfo
 
 - XHTML 1.0 Strict
 - Eric Meyer's Reset CSS v1.0
-- jQuery 1.3.2 (hosted by Google)
+- jQuery 1.3.2
 - Unit PNG Fix (v. 10.26.09)
  
 
